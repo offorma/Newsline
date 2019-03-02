@@ -1,6 +1,6 @@
 # Newsline
 
-A simplistic sign up page 
+A news paper web page 
 
 ## Built With
 
