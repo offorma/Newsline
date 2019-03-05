@@ -1,0 +1,32 @@
+.display-inline{
+    display: inline-block;
+}
+.new-york-logo{
+    height: 50px;
+    width: 233px;
+}
+.vertical-align{
+    vertical-align: middle;
+}
+.three-bars{
+    margin-left: 10%;
+} 
+.m-r-3{
+    margin-right: 3%;
+}
+.btn-span{
+    float: right;
+    margin-right: 10%;
+}
+.center-image{
+    text-align: center;
+}
+.bottom-margin{
+    margin-bottom: 2%;
+}
+.btn-top{
+    margin-top: 6%;
+}
+.header{
+    height: 8vh;
+}
