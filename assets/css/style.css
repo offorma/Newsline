@@ -26,7 +26,37 @@
 }
 .btn-top{
     margin-top: 6%;
+    border-radius: 2px;
+    border-style: none;
+    background: #6288a5;
+    color: white;
+    padding: 7px 10px;
+    border-color: #326891;
+    border-style: 1px solid;
 }
 .header{
     height: 8vh;
+}
+.first-ad {
+    background: rgb(247, 247, 247);
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+.ad {
+    border: 1px solid #c5c5c5;
+    width: 60%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 5px 7px;
+
+}
+.ad-text-section, .ad-image-section {
+    float: left;
+}
+.ad-image-section {
+    width: 30%;
+}
+.ad-text-section {
+    width: 70%;
+    margin-top: -30px;
 }
