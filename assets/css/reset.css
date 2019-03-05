@@ -4,6 +4,7 @@
 }
 .article-title, p, 
 .article-main-image,
-.top-text-section {
+.top-text-section,
+.second-text-section {
     margin: 0 auto;
 }

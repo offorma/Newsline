@@ -80,6 +80,6 @@ header {
 .display-block {
     display: block
 }
-.top-text-section {
+.top-text-section, .second-text-section {
     width: 30%;
 }
