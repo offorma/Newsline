@@ -109,3 +109,13 @@ header {
 .aside {
     font-size: 11px
 }
+.img-bg{
+    background-image: url(../images/inflation-720.png);
+}
+img-width{
+    width: 720px !important;
+}
+#player{
+    width: 33.33%;
+    height: 300px;
+}
