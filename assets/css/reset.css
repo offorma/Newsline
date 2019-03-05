@@ -2,6 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-p {
-    margin: 0;
+.article-title, p, 
+.article-main-image,
+.top-text-section {
+    margin: 0 auto;
 }

@@ -54,9 +54,30 @@
     float: left;
 }
 .ad-image-section {
-    width: 30%;
+    width: 35%;
 }
 .ad-text-section {
-    width: 70%;
-    margin-top: -30px;
+    width: 65%;
+    margin-top: -24px;
+    margin-left: -32px;
+}
+.article-title {
+    clear: both;
+    text-align: center
+}
+.article-main-image {
+    width: 60%;
+}
+.article-main-image img {
+    width: 100%;
+}
+.article-main-image p {
+    color: #666;
+    font-size: 14px
+}
+.display-block {
+    display: block
+}
+.top-text-section {
+    width: 30%;
 }
