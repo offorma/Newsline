@@ -103,5 +103,9 @@ header {
     vertical-align: middle;
 }
 .aside {
-    width: 30%
+    width: 35%;
+    margin-left: 64px;
+}
+.aside {
+    font-size: 11px
 }
