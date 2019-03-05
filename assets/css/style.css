@@ -106,16 +106,21 @@ header {
     width: 35%;
     margin-left: 64px;
 }
+article {
+    margin-top: 12px;
+}
 .aside {
     font-size: 11px
-}
-.img-bg{
-    background-image: url(../images/inflation-720.png);
 }
 img-width{
     width: 720px !important;
 }
-#player{
-    width: 33.33%;
-    height: 300px;
+article a.text {
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+}
+article img {
+    width: 35%;
 }
