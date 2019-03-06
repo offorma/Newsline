@@ -110,6 +110,9 @@ article {
     margin-top: 12px;
     font-size: 12px;
 }
+img-width{
+    width: 720px !important;
+}
 article a.text {
     width: 60%;
     display: inline-block;
