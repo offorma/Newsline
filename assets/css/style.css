@@ -109,6 +109,15 @@
     display: inline-block;
     vertical-align: top;
 }
+.col-1-4 {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top
+}
+.col-3-4 {
+    display: inline-block;
+    width: 75%;
+}
 .aside {
     width: 35%;
     margin-left: 64px;
@@ -189,4 +198,24 @@ article .article-text {
     display: inline-block;
     width: 65%;
     vertical-align: top;
+}
+
+
+.last-ad-content {
+    width: 65%
+}
+.last-ad-content img {
+    width: 90%;
+}
+
+.last-ad-content p {
+    width: 85%;
+    margin-left: 0;
+}
+.last-ad-content li {
+    line-height: 50px;
+    border-top: solid 1px grey;
+}
+.last-ad-content .box {
+    margin-bottom: 50px
 }
