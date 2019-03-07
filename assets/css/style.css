@@ -1,6 +1,9 @@
 .display-inline{
     display: inline-block;
 }
+.inline{
+    display: inline;
+}
 .new-york-logo{
     height: 50px;
     width: 233px;
@@ -138,7 +141,6 @@ article img {
 }
 .footer-main li {
     font-size: 0.8rem;
-    font-family: ;
     line-height: 16px;
     height: 23px;
 }
@@ -148,7 +150,7 @@ article img {
     height: 15px;   
     margin: 0;
 }
-figcaption{
+.figcaption{
     position: absolute;
     font-size: 12px;
     line-height: 17px;
