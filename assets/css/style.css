@@ -135,6 +135,18 @@ article img {
 .footer-main {
     width: 65%;
 }
+.footer-main li {
+    font-size: 0.8rem;
+    font-family: ;
+    line-height: 16px;
+    height: 23px;
+}
+.footer-main h3 {
+    font-size: 13px;
+    font-weight: 700;   
+    height: 15px;   
+    margin: 0;
+}
 figcaption{
     position: absolute;
     font-size: 12px;
@@ -159,4 +171,16 @@ figcaption{
 }
 .bottom{
     top: 65.8951%;
+}
+footer .rightmost-side {
+    border-left: 1px solid rgb(226, 226, 226);
+    padding-left: 25px;
+}
+.footer-header {
+    border-top: groove rgb(226, 226, 226);
+    margin-top: 27px;
+}
+.footer-header img {
+    width: 19%;
+    margin-left: -10px;
 }
