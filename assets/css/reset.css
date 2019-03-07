@@ -14,7 +14,8 @@ a {
 .article-main-image,
 .top-text-section,
 .text-section,
-.footer-main {
+.footer-main,
+.last-ad-content {
     margin: 0 auto;
 }
 hr {
