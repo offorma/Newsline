@@ -131,6 +131,7 @@ article a.text {
 }
 article img {
     width: 35%;
+    display: inline-block;
 }
 .footer-main {
     width: 65%;
@@ -183,4 +184,9 @@ footer .rightmost-side {
 .footer-header img {
     width: 19%;
     margin-left: -10px;
+}
+article .article-text {
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
 }
