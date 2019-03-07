@@ -24,7 +24,9 @@
 .bottom-margin{
     margin-bottom: 2%;
 }
-header {
+.video{
+    width: 100%;
+    height: 500px;
 }
 .btn-top{
     margin-top: 6%;
@@ -96,7 +98,7 @@ header {
 }
 .col-1-3 {
     width: 33.33%
-}
+} 
 .col-1-3, 
 .col-2-3 {
     display: inline-block;
@@ -116,8 +118,11 @@ article {
     font-size: 12px;
 }
 .img-width{
-    width: 720px !important;
-}
+    width: 620px; 
+ }
+ figure{
+    position: relative;
+ }
 article a.text {
     width: 60%;
     display: inline-block;
@@ -129,4 +134,29 @@ article img {
 }
 .footer-main {
     width: 65%;
+}
+figcaption{
+    position: absolute;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    width: 145px;
+}
+.top{
+    top: 18.0556%;
+}
+.left-1{  
+    left: 0.2544%;
+}
+.left-2{
+    left: 25.7029%;
+}
+.left-3{  
+    left: 51.1511%;
+}
+.left-4{
+    left: 76.5995%;
+}
+.bottom{
+    top: 65.8951%;
 }
