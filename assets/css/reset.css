@@ -5,6 +5,7 @@
 .article-title, p, 
 .article-main-image,
 .top-text-section,
-.text-section {
+.text-section,
+.footer-main {
     margin: 0 auto;
 }

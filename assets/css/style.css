@@ -102,6 +102,11 @@ header {
     display: inline-block;
     vertical-align: middle;
 }
+.col-1-6 {
+    width: 16.66%;
+    display: inline-block;
+    vertical-align: top;
+}
 .aside {
     width: 35%;
     margin-left: 64px;
@@ -121,4 +126,7 @@ article a.text {
 }
 article img {
     width: 35%;
+}
+.footer-main {
+    width: 65%;
 }
