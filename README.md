@@ -11,6 +11,7 @@ CSS & HTML
 * **Chukwunonso Offorma** - [Profile](https://github.com/offorma)
 * **Joshua Tafang**  - [Profile](https://github.com/tafodinho)
 
-## Site
+## Site Preview
 
-* https://raw.githack.com/offorma/Newsline/dev/index.html
+* url - https://raw.githack.com/offorma/Newsline/dev/index.html
+
