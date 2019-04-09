@@ -1,0 +1,233 @@
+.display-inline{
+    display: inline-block;
+}
+.inline{
+    display: inline;
+}
+.new-york-logo{
+    height: 50px;
+    width: 233px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: whitesmoke;
+    z-index: 10000;
+  }
+.vertical-align{
+    vertical-align: middle;
+}
+.three-bars{
+    margin-left: 10%;
+} 
+.m-r-3{
+    margin-right: 3%;
+}
+.btn-span{
+    float: right;
+    margin-right: 10%;
+}
+.center-image{
+    text-align: center;
+    margin-left: 19%;
+}
+.bottom-margin{
+    margin-bottom: 2%;
+}
+.video{
+    width: 100%;
+    height: 500px;
+}
+.btn-top{
+    margin-top: 6%;
+    border-radius: 2px;
+    border-style: none;
+    background: #6288a5;
+    color: white;
+    padding: 7px 10px;
+    border-color: #326891;
+    border-style: 1px solid;
+}
+.header{
+    height: 60px;
+    border-bottom:1px solid #ccc;
+}
+.first-ad {
+    background: rgb(247, 247, 247);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 4%;
+}
+.ad {
+    border: 1px solid #c5c5c5;
+    width: 60%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 5px 7px;
+
+}
+.ad-text-section, .ad-image-section {
+    float: left;
+}
+.ad-image-section {
+    width: 35%;
+}
+.ad-text-section {
+    width: 65%;
+    margin-top: -24px;
+    margin-left: -32px;
+}
+.article-title {
+    clear: both;
+    text-align: center
+}
+.article-main-image {
+    width: 60%;
+}
+.article-main-image img {
+    width: 100%;
+}
+.article-main-image p {
+    color: #666;
+    font-size: 14px
+}
+.display-block {
+    display: block
+}
+.top-text-section, .text-section {
+    width: 33.33%;
+}
+.text-section {
+    display: block;
+    float: left;
+
+}
+.right-ad-section {
+    float: left
+}
+.col-2-3 {
+    width: 66.66%;
+}
+.col-1-3 {
+    width: 33.33%
+} 
+.col-1-3, 
+.col-2-3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+.col-1-6 {
+    width: 16.66%;
+    display: inline-block;
+    vertical-align: top;
+}
+.col-1-4 {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top
+}
+.col-3-4 {
+    display: inline-block;
+    width: 75%;
+}
+.aside {
+    width: 35%;
+    margin-left: 64px;
+}
+article {
+    margin-top: 12px;
+    font-size: 12px;
+}
+.img-width{
+    width: 620px; 
+ }
+ figure{
+    position: relative;
+ }
+article a.text {
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 8px;
+}
+article img {
+    width: 35%;
+    display: inline-block;
+}
+.footer-main {
+    width: 65%;
+}
+.footer-main li {
+    font-size: 0.8rem;
+    line-height: 16px;
+    height: 23px;
+}
+.footer-main h3 {
+    font-size: 13px;
+    font-weight: 700;   
+    height: 15px;   
+    margin: 0;
+}
+.figcaption{
+    position: absolute;
+    font-size: 12px;
+    line-height: 17px;
+    font-weight: 300;
+    width: 145px;
+}
+.top{
+    top: 18.0556%;
+}
+.left-1{  
+    left: 0.2544%;
+}
+.left-2{
+    left: 25.7029%;
+}
+.left-3{  
+    left: 51.1511%;
+}
+.left-4{
+    left: 76.5995%;
+}
+.bottom{
+    top: 65.8951%;
+}
+footer .rightmost-side {
+    border-left: 1px solid rgb(226, 226, 226);
+    padding-left: 25px;
+}
+.footer-header {
+    border-top: groove rgb(226, 226, 226);
+    margin-top: 27px;
+}
+.footer-header img {
+    width: 19%;
+    margin-left: -10px;
+}
+article .article-text {
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+}
+
+
+.last-ad-content {
+    width: 65%
+}
+.last-ad-content img {
+    width: 90%;
+}
+
+.last-ad-content p {
+    width: 85%;
+    margin-left: 0;
+}
+.last-ad-content li {
+    line-height: 50px;
+    border-top: solid 1px grey;
+}
+.last-ad-content .box {
+    margin-bottom: 50px
+}
